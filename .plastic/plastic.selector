@@ -1,0 +1,4 @@
+repository "HJ2D@Ersm_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
