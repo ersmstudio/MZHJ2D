@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc421d255aa3bae41ae028c58dd9ed16
+guid: 168c9ec9ec5564a459ae018259b8ce9c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,18 +122,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Grass0.10
+  - name: RatRef
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.6, y: -0.5666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 64
-      height: 64
-    spriteID: 9ee4c1c51142a3e47a63d65ca6c2d080
+      width: 30
+      height: 30
+    spriteID: 4f05ad2102ea172498a2dd13f23d6a51
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -145,21 +145,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1887579207
-    name: Grass0.10
+    guid: -1412575530
+    name: RatRef
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Grass0.10
+    - name: RatRef
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 0
-        y: 0
-        width: 64
-        height: 64
-      spriteId: 9ee4c1c51142a3e47a63d65ca6c2d080
+        x: 14
+        y: 17
+        width: 30
+        height: 30
+      spriteId: 4f05ad2102ea172498a2dd13f23d6a51
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -179,4 +179,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 64, y: 64}
-  previousTextureSize: {x: 128, y: 128}
+  previousTextureSize: {x: 64, y: 64}

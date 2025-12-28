@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 058b52939636eb148bd3b68546f0627c
+guid: 90bea2b5dfe10f94f95b536028800afc
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -98,7 +98,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638807018965178217
+  platformSettingsDirtyTick: 638964033341342593
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -122,18 +122,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Hassan_Run-Sheet
+  - name: Hassan_Walk
     originalName: 
-    pivot: {x: 0.5119048, y: 0}
+    pivot: {x: 0.559406, y: -0.23880596}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 168
-      height: 25
-    spriteID: 9f59d600938df334281ab266b9adc59c
+      width: 404
+      height: 67
+    spriteID: 2b097ea3f069a1346bfe9fde0a64db3c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,9 +141,9 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: -6, y: 4}
+    uvTransform: {x: 4, y: 4}
   spriteSheetImportData:
-  - name: Hassan_Run-Sheet_0
+  - name: Hassan_Walk_0
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -152,9 +152,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 13
-      height: 21
-    spriteID: f52e61326866c4a4894ef78251ace9e7
+      width: 38
+      height: 66
+    spriteID: b21801024681e294195fdcc44507831d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -163,38 +163,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
-  - name: Hassan_Run-Sheet_1
+  - name: Hassan_Walk_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 36
-      y: 5
-      width: 10
-      height: 22
-    spriteID: 5c4ce5bf16ed1144caf939713bb25a11
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 0, y: 0}
-  - name: Hassan_Run-Sheet_2
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 67
+      x: 54
       y: 4
-      width: 9
-      height: 23
-    spriteID: 72b5f5aefb3b9594ab78ae9c01108611
+      width: 32
+      height: 66
+    spriteID: ee43c46b08cc78b4da47ab56bcb653b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -203,38 +183,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
-  - name: Hassan_Run-Sheet_3
+  - name: Hassan_Walk_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 99
-      y: 5
-      width: 13
-      height: 22
-    spriteID: f50ae57adb3e12c4e9fe155f88bb7b36
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 0, y: 0}
-  - name: Hassan_Run-Sheet_4
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 132
+      x: 101
       y: 4
-      width: 10
-      height: 21
-    spriteID: e474fbbe770a337499e59b879d8fc70f
+      width: 26
+      height: 66
+    spriteID: b0d082b36ef63a645845bbeb1b748bf4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -243,18 +203,138 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
-  - name: Hassan_Run-Sheet_5
+  - name: Hassan_Walk_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 161
-      y: 5
-      width: 11
-      height: 24
-    spriteID: 706844adb7a40654b878601358f10ee3
+      x: 138
+      y: 4
+      width: 29
+      height: 66
+    spriteID: 52147ee9bf445824c85a2237919d111d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Hassan_Walk_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 4
+      width: 29
+      height: 67
+    spriteID: 69ccfd369e98da24684bf5b5b3ac1c1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Hassan_Walk_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 4
+      width: 27
+      height: 67
+    spriteID: 180b32cbe934b4c4d9dde6b4be6c31d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Hassan_Walk_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 4
+      width: 24
+      height: 67
+    spriteID: abc3b3dab38206647b8c709de63a68b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Hassan_Walk_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 4
+      width: 24
+      height: 67
+    spriteID: a4bc721479e84e040a9574473c9e9cae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Hassan_Walk_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 4
+      width: 27
+      height: 67
+    spriteID: f885d9e77329f7348ae8ba7ef2472875
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Hassan_Walk_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 4
+      width: 33
+      height: 67
+    spriteID: 90dc336910c627a409fc4ffa725f641c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -265,21 +345,21 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   asepriteLayers:
   - layerIndex: 0
-    guid: -1724122664
-    name: Hassan_Run-Sheet
+    guid: -2059755276
+    name: Hassan_Walk
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Hassan_Run-Sheet
+    - name: Hassan_Walk
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 0
-        y: 0
-        width: 192
-        height: 32
-      spriteId: 9f59d600938df334281ab266b9adc59c
+        x: 24
+        y: 16
+        width: 404
+        height: 67
+      spriteId: 2b097ea3f069a1346bfe9fde0a64db3c
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -394,5 +474,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 192, y: 32}
-  previousTextureSize: {x: 256, y: 64}
+  canvasSize: {x: 500, y: 128}
+  previousTextureSize: {x: 512, y: 128}
