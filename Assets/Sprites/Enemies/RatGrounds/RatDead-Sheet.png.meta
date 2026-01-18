@@ -43,9 +43,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -173,7 +173,154 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: RatDead-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 306
+        height: 306
+      alignment: 9
+      pivot: {x: 0.48065406, y: 0.024095224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87bab103655ec4e8e5d4792705dddb
+      internalID: 266628513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatDead-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 167
+        width: 284
+        height: 336
+      alignment: 9
+      pivot: {x: 0.59171456, y: 0.020778839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd148b8e7441546ad46c98491ca28d
+      internalID: 281279151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatDead-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 167
+        width: 353
+        height: 373
+      alignment: 9
+      pivot: {x: 0.6140351, y: 0.020703355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6563fd4409512fa41a9dd8bc5f782601
+      internalID: -1398913378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatDead-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 157
+        width: 393
+        height: 324
+      alignment: 9
+      pivot: {x: 0.6506298, y: 0.061497018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5d647d0ee08243a17f50e751693bb
+      internalID: 1292941897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatDead-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 137
+        width: 386
+        height: 266
+      alignment: 9
+      pivot: {x: 0.668698, y: 0.13502032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ff4f8d7ec3734db1d55baba10ac1a
+      internalID: -1662914152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatDead-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 137
+        width: 396
+        height: 266
+      alignment: 9
+      pivot: {x: 0.64649856, y: 0.13502032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f00663fe4960d54b9ad0d0156bdf403
+      internalID: -643022663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RatDead-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 137
+        width: 437
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5948238, y: 0.14837325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeabead826a11d40aca4aec346be870
+      internalID: -330449769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -184,7 +331,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RatDead-Sheet_0: 266628513
+      RatDead-Sheet_1: 281279151
+      RatDead-Sheet_2: -1398913378
+      RatDead-Sheet_3: -103442775
+      RatDead-Sheet_4: 1292941897
+      RatDead-Sheet_5: -660668568
+      RatDead-Sheet_6: -201379823
+      RatDead-Sheet_7: -1662914152
+      RatDead-Sheet_8: -643022663
+      RatDead-Sheet_9: -330449769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

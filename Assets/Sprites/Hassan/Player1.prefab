@@ -126,9 +126,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 794f9cea6df44c34da2d0cb77bb8824e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  run: 0
+  walk: 0
   moveSpeed: 5
   playerRb: {fileID: 7076964628960608487}
   PlayerSr: {fileID: 0}
+  PlayerAnim: {fileID: 0}
+  hitAnimationDuration: 0
+  damageAnimationDuration: 0
 --- !u!95 &6107447422219683285
 Animator:
   serializedVersion: 5

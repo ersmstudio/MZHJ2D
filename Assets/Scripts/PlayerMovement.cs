@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D playerRb;
     public SpriteRenderer PlayerSr;
     public Animator PlayerAnim;
-
+    public GameObject sword0001;
     // optional: set in inspector (0 = auto-detect clip length)
     public float hitAnimationDuration = 0f;
     public float damageAnimationDuration = 0f; // new: optional override for damage clip length
@@ -76,7 +76,9 @@ public class PlayerMovement : MonoBehaviour
         // start hit only if not already playing
         if (Input.GetButtonDown("Fire1") && !isAttacking)
         {
+            sword0001.gameObject.SetActive(false);
             StartCoroutine(PlayHitAndReturn());
+
         }
 
         // start damage only if not already playing
@@ -102,7 +104,7 @@ public class PlayerMovement : MonoBehaviour
 
         // return to movement/idle immediately
         PlayerAnim.ResetTrigger("Hit");
-
+        sword0001.gameObject.SetActive(true);
         string idleState = "Player1_Idle";
         string walkState = "Player1_Walking";
 
