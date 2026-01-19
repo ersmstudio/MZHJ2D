@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cab2fdcf9a2c3424480679ab5db54fe4
+guid: f50e51881c32f80419ab63bb2d8cb281
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,9 +123,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Bush0001
+  - name: Hassan_Run
     originalName: 
-    pivot: {x: 0.49206352, y: -0.083333336}
+    pivot: {x: 0.5014493, y: -0.23880596}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -133,9 +133,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 63
-      height: 36
-    spriteID: a9267547f4100be4aaf4eef992a9060a
+      width: 345
+      height: 67
+    spriteID: 94d8e5a3fa15d8d4cbbd48e76adf614b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -147,21 +147,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 221534385
-    name: Bush0001
+    guid: -1688226866
+    name: Hassan_Run
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Bush0001
+    - name: Hassan_Run
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 1
-        y: 3
-        width: 63
-        height: 36
-      spriteId: a9267547f4100be4aaf4eef992a9060a
+        x: 77
+        y: 16
+        width: 345
+        height: 67
+      spriteId: 94d8e5a3fa15d8d4cbbd48e76adf614b
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,5 +180,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
-  previousTextureSize: {x: 128, y: 64}
+  canvasSize: {x: 500, y: 128}
+  previousTextureSize: {x: 512, y: 128}
