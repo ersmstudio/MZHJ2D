@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MZHJ2D.sln"
+    "dotnet.defaultSolution": "MZHJ2D.slnx"
 }

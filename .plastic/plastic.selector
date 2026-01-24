@@ -1,4 +1,4 @@
-repository "HJ2D@Ersm_Studio@cloud"
+repository "Cloud Repositories/HJ2D@11270429421375@cloud"
   path "/"
     br "/main"
     co "/main"
